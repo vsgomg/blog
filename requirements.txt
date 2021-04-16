@@ -9,7 +9,7 @@ cryptography==2.3.1
 cssselect==1.0.3
 Django==1.11.14
 django-cors-headers==2.4.0
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-redis==4.9.0
 djangorestframework==3.8.2
 hyperlink==18.0.0
